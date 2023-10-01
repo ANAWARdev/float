@@ -7,12 +7,14 @@ header{
     height: 80px;
     width: 1000px;
     background-color: #FF5E00;
+    margin-bottom: 20px;
 }
 
 footer {
     height: 100px;
     width: 1000px;
     background-color: #5D5D5D;
+    margin-top: 20px;
 }
  #left {
     height: 500px;
@@ -23,26 +25,29 @@ footer {
     display: block;
     justify-content: end;
     align-items: end;
-    position: relative;
-    top: 100%;
-    left: 70%;
+    position: absolute;
+    top: 18%;
+    left: 60%;
     
 }
 #rose {
     height: 150px;
     width: 380px;
     background-color: #FF00DD; 
+    margin-bottom: 10px;
 
 }
 #jaune {
     height: 150px;
     width: 380px;
     background-color: #FFE400; 
+    margin-bottom: 10px;
    
 }
 #vert {
     height: 170px;
     width: 380px;
     background-color: #99E000; 
+    margin-bottom: 10px;
   
 }
