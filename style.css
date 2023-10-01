@@ -2,14 +2,47 @@ html {
     max-width: 1000px;
     margin: 0 auto;
 }
-#header {
-    height: 80;
+
+header{
+    height: 80px;
     width: 1000px;
     background-color: #FF5E00;
 }
 
-#footer {
-    height: 100;
+footer {
+    height: 100px;
     width: 1000px;
     background-color: #5D5D5D;
+}
+ #left {
+    height: 500px;
+    width: 600px;
+    background-color: #00D8FF; 
+}
+#right {
+    display: block;
+    justify-content: end;
+    align-items: end;
+    position: relative;
+    top: 100%;
+    left: 70%;
+    
+}
+#rose {
+    height: 150px;
+    width: 380px;
+    background-color: #FF00DD; 
+
+}
+#jaune {
+    height: 150px;
+    width: 380px;
+    background-color: #FFE400; 
+   
+}
+#vert {
+    height: 170px;
+    width: 380px;
+    background-color: #99E000; 
+  
 }
