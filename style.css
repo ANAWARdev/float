@@ -1,0 +1,9 @@
+html {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+div {
+    height: 80;
+    width: 1000px;
+    background-color: #FF5E00;
+}
